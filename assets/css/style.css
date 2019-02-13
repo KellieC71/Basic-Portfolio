@@ -1,26 +1,11 @@
-<!DOCTYPE html>
+img { width: 150px }
+body {
+  background-color: rgb(80, 220, 255);
+  text-align: center;  
+};
 
-<html>
+p{
+  margin-left: 200px; 
+  margin-right: 200px; 
+};
 
-<head>
-<body>
-<style>
-
-h1{
-  box-sizing: border-box;
-
-    border box: width 300px;
-    padding: 40px;    
-    border: 15px solid blue;
-
-<body>
-</style>
-
-</head>
-
-<body>
-
-</html>
-
-
-img { width: 250px }
